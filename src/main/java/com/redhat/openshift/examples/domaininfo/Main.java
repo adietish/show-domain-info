@@ -13,11 +13,11 @@ import java.io.IOException;
 
 import com.openshift.client.IApplication;
 import com.openshift.client.IDomain;
-import com.openshift.client.IEmbeddedCartridge;
 import com.openshift.client.IOpenShiftConnection;
 import com.openshift.client.IUser;
 import com.openshift.client.OpenShiftConnectionFactory;
 import com.openshift.client.OpenShiftException;
+import com.openshift.client.cartridge.IEmbeddedCartridge;
 import com.openshift.client.configuration.OpenShiftConfiguration;
 
 /**
